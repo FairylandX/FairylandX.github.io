@@ -10,7 +10,7 @@
       <p><b>....</b></p>
     </td>
     <td width="25%">
-      <img src="/info.png" width="100%">
+      <img src="https://github.com/FairylandX/FairylandX.github.io/blob/master/info.png" width="100%">
     </td>
   </tr>
 </table>
