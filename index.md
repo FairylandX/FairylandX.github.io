@@ -7,7 +7,7 @@
       <p><b>CG工作者，AR|VR领域专家</b></p>
       <p><b>...</b></p>
       <p><b>...</b></p>
-      <p><b>个人主页：http://www.fairylandx.com</b></p>
+      <p><b>个人主页：<a href="http://www.fairylandx.com">http://www.fairylandx.com</a></b></p>
       <a href="/index-en.html">英文版</a>
     </td>
     <td width="25%">
