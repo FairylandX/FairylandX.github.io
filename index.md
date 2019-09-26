@@ -3,11 +3,12 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>FairylandX-ZBH</h1>
+      <h1>FairylandX ZHAO</h1>
+      <p><b>CG工作者，AR|VR领域专家</b></p>
       <p><b>...</b></p>
       <p><b>...</b></p>
-      <p><b>...</b></p>
-      <p><b>....</b></p>
+      <p><b>个人主页：http://www.fairylandx.com</b></p>
+      <a href="/index-en.html">英文版</a>
     </td>
     <td width="25%">
       <img src="/info.png" width="100%">
@@ -19,7 +20,11 @@ You can use the [editor on GitHub](https://github.com/FairylandX/FairylandX.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 最新消息
+
+### 研究方向
+
+### 项目研究
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
